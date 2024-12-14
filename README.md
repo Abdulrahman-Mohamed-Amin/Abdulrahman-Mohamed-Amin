@@ -51,9 +51,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdulrahman-Mohamed-Amin.Abdulrahman-Mohamed-Amin&left_color=aqua&right_color=aquamarine&left_text=veiws"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdulrahman-Mohamed-Amin.Abdulrahman-Mohamed-Amin&left_color=darkorange&right_color=black&left_text=veiws"  />
 </div>
 
+
 ###
+
+
 
