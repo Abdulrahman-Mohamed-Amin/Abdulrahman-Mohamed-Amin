@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">Frontend Developer  | Angular</h3>
----
+
 ###
 
 <div align="left">
