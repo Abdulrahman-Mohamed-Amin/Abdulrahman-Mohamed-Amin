@@ -1,8 +1,11 @@
 <h2 align="left">Hi 👋! My name is Abdulrahman Amin</h2>
 
-***
+# عنوان رئيسي
+
 ---
-___
+
+هذا النص أسفل خط أفقي
+
 <h3 align="left">Frontend Developer  | Angular</h3>
 
 ###
